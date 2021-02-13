@@ -1,4 +1,3 @@
-### MyVCR project
+### Video Capture Recorder
 
-migrated from googlecode.
---------------------------------------------------
+一个很古老的摄像头视频捕获记录程序。
